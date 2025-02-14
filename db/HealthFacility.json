@@ -1,0 +1,502 @@
+[
+  {
+    "Id": "db34c393-8027-7502-a9e4-e94a9b7fba23",
+    "City": "Ottawa",
+    "IsOpen": "True",
+    "Name": "Lang Inc",
+    "PhoneNumber": null,
+    "StreetName": "Alexandra Path",
+    "StreetNumber": "164 Drew Squares",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "ab30dae0-75c1-c1b8-1d1d-63c77d1e3fbb",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Champlin Group",
+    "PhoneNumber": "1-667-785-4072 x8988",
+    "StreetName": "Dovie Spur",
+    "StreetNumber": "4737 Williamson Green",
+    "Type": "clinic"
+  },
+  {
+    "Id": "636c16f8-2ab5-db05-219a-457e40db4252",
+    "City": "Quebec City",
+    "IsOpen": "False",
+    "Name": "Ondricka LLC",
+    "PhoneNumber": null,
+    "StreetName": "Wilber Valley",
+    "StreetNumber": "673 Callie Overpass",
+    "Type": "clinic"
+  },
+  {
+    "Id": "291dc795-8efb-1e4c-0b72-bd0a1d3af88a",
+    "City": "Quebec City",
+    "IsOpen": "False",
+    "Name": "Kessler Inc",
+    "PhoneNumber": "(745) 973-2859 x312",
+    "StreetName": "Murazik Key",
+    "StreetNumber": "49197 Emiliano Crescent",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "84512da5-5612-b66e-d555-89272f398142",
+    "City": "Montreal",
+    "IsOpen": "True",
+    "Name": "Romaguera - Collier",
+    "PhoneNumber": null,
+    "StreetName": "Tremaine Road",
+    "StreetNumber": "1283 Glover Neck",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "b63110da-1500-6ac0-ca4e-58426cfbbee6",
+    "City": "Ottawa",
+    "IsOpen": "False",
+    "Name": "Rodriguez Inc",
+    "PhoneNumber": null,
+    "StreetName": "Fadel Pines",
+    "StreetNumber": "319 Gusikowski Gardens",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "13d9baa1-bd89-3f3f-5867-54a50424efd1",
+    "City": "Ottawa",
+    "IsOpen": "False",
+    "Name": "Zemlak Group",
+    "PhoneNumber": null,
+    "StreetName": "Toni Mission",
+    "StreetNumber": "480 Irwin Burg",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "0c2f7af1-4208-908a-6ce7-bac4fe2b49d9",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Erdman - Hand",
+    "PhoneNumber": "1-531-848-7573 x6231",
+    "StreetName": "Cecilia Glen",
+    "StreetNumber": "3990 Johnston Ridges",
+    "Type": "clinic"
+  },
+  {
+    "Id": "7485a297-6d60-1cb9-d1f2-5d99c01b65a5",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "Kautzer - Larkin",
+    "PhoneNumber": "842-358-6705",
+    "StreetName": "Rau River",
+    "StreetNumber": "29842 Morissette Loop",
+    "Type": "clinic"
+  },
+  {
+    "Id": "f251865f-b1cb-5fde-3049-a6a1037b402d",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "Mayert Inc",
+    "PhoneNumber": null,
+    "StreetName": "Moshe Drives",
+    "StreetNumber": "04202 Renner Crest",
+    "Type": "clinic"
+  },
+  {
+    "Id": "610e7a1e-7a9f-8371-c112-3b16e5f1cf51",
+    "City": "Ottawa",
+    "IsOpen": "False",
+    "Name": "Wolff - Moore",
+    "PhoneNumber": null,
+    "StreetName": "Lynch Common",
+    "StreetNumber": "994 Green Throughway",
+    "Type": "clinic"
+  },
+  {
+    "Id": "77651481-56da-e50e-c425-4317c6171956",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Kovacek, Hirthe and Hand",
+    "PhoneNumber": null,
+    "StreetName": "Bennett Track",
+    "StreetNumber": "98591 Rocio Harbor",
+    "Type": "clinic"
+  },
+  {
+    "Id": "457a2fb2-040c-e405-15cd-31b876c87a3f",
+    "City": "Quebec City",
+    "IsOpen": "False",
+    "Name": "Goldner - Medhurst",
+    "PhoneNumber": "686-553-3820 x53209",
+    "StreetName": "Vaughn Curve",
+    "StreetNumber": "39940 Mayer Prairie",
+    "Type": "clinic"
+  },
+  {
+    "Id": "ee205579-c815-c753-6c29-9d79365abca9",
+    "City": "Ottawa",
+    "IsOpen": "True",
+    "Name": "Altenwerth Inc",
+    "PhoneNumber": "915.636.1485",
+    "StreetName": "Braun Underpass",
+    "StreetNumber": "028 Zboncak Plains",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "b563e5f8-8976-7d44-0f80-620c25556ffc",
+    "City": "Ottawa",
+    "IsOpen": "True",
+    "Name": "Bode - Runte",
+    "PhoneNumber": null,
+    "StreetName": "Bridgette Ports",
+    "StreetNumber": "5718 Hoeger Circles",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "719d04ab-2bf7-e940-dcb2-d9e3678cadba",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Kuvalis Group",
+    "PhoneNumber": "734-749-9109 x453",
+    "StreetName": "Wellington Street",
+    "StreetNumber": "081 Jakayla Glens",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "90bf8711-c464-f0c9-10a3-de946646a217",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Parker - Strosin",
+    "PhoneNumber": null,
+    "StreetName": "Herbert Cove",
+    "StreetNumber": "149 Cassie Plaza",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "32cda0b9-4bbc-cdb2-a57a-d8c4b0611683",
+    "City": "Ottawa",
+    "IsOpen": "True",
+    "Name": "Pfannerstill - Schuppe",
+    "PhoneNumber": "1-773-257-0508 x201",
+    "StreetName": "Haag Valleys",
+    "StreetNumber": "9754 Adam Junctions",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "9efba8d2-de95-e798-3bad-60544cab8295",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "Adams, Renner and O'Reilly",
+    "PhoneNumber": "397.354.6723",
+    "StreetName": "Turner Garden",
+    "StreetNumber": "69427 Berta Land",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "c629c110-7bbe-c5fd-d4f2-ebe9ec043faf",
+    "City": "Ottawa",
+    "IsOpen": "True",
+    "Name": "Predovic - Thompson",
+    "PhoneNumber": null,
+    "StreetName": "Mason Motorway",
+    "StreetNumber": "3149 Rempel Track",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "bec15b8c-034b-da82-08e6-f70fea5e80f9",
+    "City": "Ottawa",
+    "IsOpen": "False",
+    "Name": "Crona Group",
+    "PhoneNumber": null,
+    "StreetName": "Considine Isle",
+    "StreetNumber": "884 Jaskolski Bridge",
+    "Type": "clinic"
+  },
+  {
+    "Id": "efb342f8-4f38-57c4-aa35-c9a2f3aefa36",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Hudson, Casper and Grimes",
+    "PhoneNumber": "1-305-240-7509 x040",
+    "StreetName": "Cole Prairie",
+    "StreetNumber": "60764 Noble Route",
+    "Type": "clinic"
+  },
+  {
+    "Id": "f0c7b16e-c4e9-0c4a-3f4f-bdd784eedb76",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "Beatty - Greenholt",
+    "PhoneNumber": null,
+    "StreetName": "Luettgen Way",
+    "StreetNumber": "6817 Julianne Meadows",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "a9f1f171-5051-3d77-976a-13163adfe659",
+    "City": "Ottawa",
+    "IsOpen": "False",
+    "Name": "Bradtke - Moen",
+    "PhoneNumber": "288.796.2154 x09738",
+    "StreetName": "Macejkovic Burgs",
+    "StreetNumber": "445 Daron Parkway",
+    "Type": "clinic"
+  },
+  {
+    "Id": "39a1c0ec-9097-3310-f8a6-afe991edd2bb",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "Cruickshank, Corkery and Keeling",
+    "PhoneNumber": "1-803-840-7347 x50478",
+    "StreetName": "Russel Drives",
+    "StreetNumber": "99951 Bednar Gardens",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "0131535a-51bd-1de4-3a8a-597eb033d25f",
+    "City": "Montreal",
+    "IsOpen": "True",
+    "Name": "Blick, Leffler and Altenwerth",
+    "PhoneNumber": null,
+    "StreetName": "Kiehn Locks",
+    "StreetNumber": "8400 Dell Cove",
+    "Type": "clinic"
+  },
+  {
+    "Id": "c3eb6468-a14d-e1de-e1bd-b0aaa08eaba9",
+    "City": "Montreal",
+    "IsOpen": "True",
+    "Name": "Sipes - Harber",
+    "PhoneNumber": "438-615-1856",
+    "StreetName": "Carlos Highway",
+    "StreetNumber": "3948 Alexanne Spurs",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "e7bc5898-e5ae-9a9c-db83-ff0d369182c5",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "Swaniawski and Sons",
+    "PhoneNumber": "570-401-1837",
+    "StreetName": "Price Lock",
+    "StreetNumber": "5230 Green Valleys",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "2d8050d4-0e02-b86e-744f-20ffa03a7cab",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Waters Group",
+    "PhoneNumber": "738-624-4139",
+    "StreetName": "Kling Pine",
+    "StreetNumber": "13329 Herminia Fort",
+    "Type": "clinic"
+  },
+  {
+    "Id": "58e6b0de-eb76-83b1-c850-e7c9a1d1ab4f",
+    "City": "Montreal",
+    "IsOpen": "True",
+    "Name": "Zemlak LLC",
+    "PhoneNumber": null,
+    "StreetName": "Abigale Rue",
+    "StreetNumber": "703 Rempel Via",
+    "Type": "clinic"
+  },
+  {
+    "Id": "50d5eb3b-7d0d-89a7-e903-725ec49cfaa1",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "D'Amore - Fay",
+    "PhoneNumber": null,
+    "StreetName": "Mabel Shores",
+    "StreetNumber": "654 Bashirian Road",
+    "Type": "clinic"
+  },
+  {
+    "Id": "862e5306-2aaa-e94e-9efd-65b126a417a2",
+    "City": "Ottawa",
+    "IsOpen": "False",
+    "Name": "Hackett - Wisozk",
+    "PhoneNumber": null,
+    "StreetName": "Cory Ville",
+    "StreetNumber": "0027 Renee Trail",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "b4c4d0a4-2c64-619e-085d-6e727852be2b",
+    "City": "Quebec City",
+    "IsOpen": "False",
+    "Name": "Hansen, Rempel and Robel",
+    "PhoneNumber": null,
+    "StreetName": "Georgiana Shore",
+    "StreetNumber": "44826 Kariane Mission",
+    "Type": "clinic"
+  },
+  {
+    "Id": "4dc24655-24a3-10a5-9cec-b10f17f56245",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "Haley - Gulgowski",
+    "PhoneNumber": "1-364-557-3028",
+    "StreetName": "Ondricka Shore",
+    "StreetNumber": "723 Hammes Green",
+    "Type": "clinic"
+  },
+  {
+    "Id": "f3bad0ec-45d7-da3c-b4cc-7d4dbbdc714c",
+    "City": "Ottawa",
+    "IsOpen": "False",
+    "Name": "Konopelski, Williamson and Cruickshank",
+    "PhoneNumber": "531.275.8898 x7704",
+    "StreetName": "Josiane Key",
+    "StreetNumber": "3324 Dayana Motorway",
+    "Type": "clinic"
+  },
+  {
+    "Id": "e05c393f-c9e1-7fff-2bb3-18787a8f4913",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "O'Reilly Group",
+    "PhoneNumber": "(868) 555-7535",
+    "StreetName": "Tara Shore",
+    "StreetNumber": "5606 Legros Plaza",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "a88529fb-ca98-0f54-09e8-99d6a75755c0",
+    "City": "Montreal",
+    "IsOpen": "True",
+    "Name": "Botsford, Romaguera and Stoltenberg",
+    "PhoneNumber": "557.331.2693 x2688",
+    "StreetName": "Sporer Spring",
+    "StreetNumber": "2341 Easton Drive",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "decf657b-8299-2363-d03a-c8232dc46025",
+    "City": "Quebec City",
+    "IsOpen": "False",
+    "Name": "McLaughlin - Zemlak",
+    "PhoneNumber": null,
+    "StreetName": "Christop Mission",
+    "StreetNumber": "2856 Delfina Course",
+    "Type": "clinic"
+  },
+  {
+    "Id": "92526a83-c956-74b4-e54c-d6f92f29d8d3",
+    "City": "Ottawa",
+    "IsOpen": "True",
+    "Name": "Kessler, Moen and Quigley",
+    "PhoneNumber": null,
+    "StreetName": "Glover Stream",
+    "StreetNumber": "19839 Tyshawn Forest",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "14fd575e-6bbf-787a-c561-d75d0230e245",
+    "City": "Ottawa",
+    "IsOpen": "True",
+    "Name": "Stanton Inc",
+    "PhoneNumber": null,
+    "StreetName": "Kenna Passage",
+    "StreetNumber": "0812 McClure Drive",
+    "Type": "clinic"
+  },
+  {
+    "Id": "3d527388-c305-b16a-b15a-f84dab6af3a7",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "Kris, Durgan and McClure",
+    "PhoneNumber": null,
+    "StreetName": "Hilda Creek",
+    "StreetNumber": "9449 Robert Via",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "d6c5f561-4bc6-1765-f0d9-ccf4f15672b5",
+    "City": "Ottawa",
+    "IsOpen": "False",
+    "Name": "Shields - Koelpin",
+    "PhoneNumber": "844-483-3060 x4072",
+    "StreetName": "Runolfsdottir Wells",
+    "StreetNumber": "426 Lolita River",
+    "Type": "clinic"
+  },
+  {
+    "Id": "bc719169-9bd6-9acd-ed4b-6364732ccd5b",
+    "City": "Ottawa",
+    "IsOpen": "False",
+    "Name": "Hand LLC",
+    "PhoneNumber": "1-601-274-7939 x2631",
+    "StreetName": "Reta Street",
+    "StreetNumber": "358 Pagac Trace",
+    "Type": "clinic"
+  },
+  {
+    "Id": "0dfb306e-0b6a-3c7e-0e3b-4c2cf675c05a",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Lockman and Sons",
+    "PhoneNumber": null,
+    "StreetName": "Lyric Highway",
+    "StreetNumber": "31981 Oberbrunner Expressway",
+    "Type": "clinic"
+  },
+  {
+    "Id": "19e343e8-37f9-c5d1-272a-e87be700a4c3",
+    "City": "Montreal",
+    "IsOpen": "False",
+    "Name": "Hamill - Johnston",
+    "PhoneNumber": "880.820.6432",
+    "StreetName": "Connelly Courts",
+    "StreetNumber": "3129 Hane Center",
+    "Type": "pharmacy"
+  },
+  {
+    "Id": "c186710b-655a-5d4a-1234-ae9b4ea1a477",
+    "City": "Quebec City",
+    "IsOpen": "False",
+    "Name": "Paucek - Baumbach",
+    "PhoneNumber": "336-331-3353",
+    "StreetName": "Justice Junctions",
+    "StreetNumber": "5823 Elliot Course",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "2f7c098a-b349-3662-5e35-e53f2202550d",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Ruecker and Sons",
+    "PhoneNumber": "585.820.7514 x52563",
+    "StreetName": "Ari Ford",
+    "StreetNumber": "594 Price Shores",
+    "Type": "clinic"
+  },
+  {
+    "Id": "85208996-ffef-82ff-f985-06c489357785",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Turcotte - Medhurst",
+    "PhoneNumber": null,
+    "StreetName": "Schimmel Tunnel",
+    "StreetNumber": "9947 Pollich Stream",
+    "Type": "communityResource"
+  },
+  {
+    "Id": "ddf07186-7583-577a-0f50-62257f0a3a10",
+    "City": "Quebec City",
+    "IsOpen": "True",
+    "Name": "Wiegand, Ruecker and McLaughlin",
+    "PhoneNumber": "215-980-6830",
+    "StreetName": "Kadin Rapid",
+    "StreetNumber": "0688 Runte Ways",
+    "Type": "clinic"
+  },
+  {
+    "Id": "c504a0df-1e80-8b88-0af9-36c3ac9dac29",
+    "City": "Montreal",
+    "IsOpen": "True",
+    "Name": "Klocko Inc",
+    "PhoneNumber": "998.982.6269",
+    "StreetName": "MacGyver Center",
+    "StreetNumber": "098 Gottlieb Junctions",
+    "Type": "communityResource"
+  }
+]
